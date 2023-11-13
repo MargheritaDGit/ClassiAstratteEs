@@ -1,4 +1,3 @@
-
 public class Main {
     public static void main(String[] args) {
         Forma rettangolo = new Rettangolo (6.0, 9.0);
@@ -8,3 +7,4 @@ public class Main {
         System.out.println("L'area del triangolo è: " + triangolo.calcolaArea());
     }
 }
+
